@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="container">
       <div className="App">
-        <Weather />
+        <Weather defaultCity="New York" />
         <footer>
           This project was coded by
           <a href="https://github.com/Peacefsps" target="blank">
