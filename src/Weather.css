@@ -33,7 +33,6 @@
 .Weather img {
     position: relative;
     top: -18px;
-    margin-right: 10px;
 }
 .Weather .temperature {
     font-weight: bold;
